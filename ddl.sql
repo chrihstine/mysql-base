@@ -57,5 +57,5 @@ VALUES ("Tan Ah Boy", 0, "2022-01-03", 1);
 
 ALTER TABLE parents MODIFY COLUMN contact_number VARCHAR(11) NOT NULL;
 
-
+-- delete the table
 DROP TABLE asd;
